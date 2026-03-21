@@ -6,11 +6,12 @@
     "description": "A CRUD API for managing books and authors."
   },
   "servers": [
-    {
-      "url": "http://localhost:3000",
-      "description": "Local server"
-    }
-  ],
+        {
+            "url": "https://w03-project-project-2-part-1-crud-pj06.onrender.com",
+            "description": "Render server"
+        }
+    ]
+  ,
   "components": {
     "schemas": {
       "Book": {
